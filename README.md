@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **julianverwoerd008@gmail.com**
 
-- ⚡ Fun fact: **This probably isn't correct 😂**
+- ⚡ Fun fact: **This probably isn't correct, some things change alot 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
