@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on school projects<br>👯 I’m looking to collaborate on Unity games<br>🌱 I’m currently learning C++<br>💬 Ask me about Python, Web design (HTML, CSS), Node.JS, C#, or Unity
+🔭 I’m currently working on **school projects**<br>👯 I’m looking to collaborate on **Unity games**<br>🌱 I’m currently learning **C++**<br>💬 Ask me about **Python, Web design (HTML, CSS), Node.JS, C#, or Unity**
 
 
 ## 🌐 Socials:
