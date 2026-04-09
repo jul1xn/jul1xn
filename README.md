@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **school & internships**<br>👯 I’m looking to collaborate on **anything in my league**<br>🌱 I’m currently learning **React Native & Typescript**<br>💬 Ask me about **frontend, backend and database stuff**
+🔭 I’m currently working on **school & internship**<br>👯 I’m looking to collaborate on **anything in my league**<br>🌱 I’m currently learning **React Native & Typescript**<br>💬 Ask me about **frontend, backend and database stuff**
 
 
 ## 🌐 Socials:
