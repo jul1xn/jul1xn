@@ -4,7 +4,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="300" src="code.png" />
+<!-- <img align="right" alt="Coding" width="300" src="code.png" /> -->
 
 I'm a **Software Development** student from the Netherlands with a passion for building software and learning new technologies. I started programming at a young age and have mostly taught myself by researching, experimenting, and trying out new ideas.
 
